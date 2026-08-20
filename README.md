@@ -4,6 +4,13 @@
 
 <br />
 
+<img src="./assets/banner.png" alt="banner" width="100%" />
+
+<br />
+<br />
+
+<img src="./assets/avatar.png" alt="spike" width="120" height="120" style="border-radius:50%" />
+
 # spike
 
 **AI‑native builder** · agents, harnesses & the tools that connect them
