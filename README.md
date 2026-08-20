@@ -4,11 +4,6 @@
 
 <br />
 
-<img src="./assets/banner.png" alt="banner" width="100%" />
-
-<br />
-<br />
-
 <img src="./assets/avatar.png" alt="spike" width="120" height="120" style="border-radius:50%" />
 
 # spike
@@ -35,5 +30,10 @@
 <div align="center">
 
 `TypeScript` · `AI Agents` · `LLM Tooling`
+
+<br />
+<br />
+
+<img src="./assets/banner.png" alt="banner" width="100%" />
 
 </div>
