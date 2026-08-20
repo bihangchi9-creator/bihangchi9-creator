@@ -23,7 +23,7 @@
 
 ### ◦ Elsewhere
 
-`trae-to-lark` — bring TRAE CLI, Claude Code & Codex into Lark
+[`trae-to-lark`](https://github.com/bihangchi9-creator/trae-to-lark) — bring TRAE CLI, Claude Code & Codex into Lark
 
 <br />
 

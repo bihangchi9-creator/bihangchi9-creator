@@ -23,7 +23,7 @@
 
 ### ◦ 其他
 
-`trae-to-lark` —— 将 TRAE CLI、Claude Code、Codex 接入 Lark
+[`trae-to-lark`](https://github.com/bihangchi9-creator/trae-to-lark) —— 将 TRAE CLI、Claude Code、Codex 接入 Lark
 
 <br />
 
