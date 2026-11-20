@@ -1,7 +1,7 @@
 <!--
 ---
 event_date: "2026-11-21"
-recorded_at: "2026-11-21 03:36:23"
+recorded_at: "2026-11-21 03:46:32"
 domain: "work"
 type: "component"
 client: "codex"
@@ -56,8 +56,7 @@ A lightweight to-do interface for people, with an agent-friendly layer for
 reading tasks, carrying out work and returning results. Task state, history
 and human confirmation make the handoff visible — not another chat to lose track of.
 
-Built on Vikunja, with a custom interface and agent collaboration layer.
-Account work, production deployment and broader device validation are still in progress.
+**Expected to launch in December 2026.**
 
 <sub>Private work in progress; no public demo or source link yet.</sub>
 
